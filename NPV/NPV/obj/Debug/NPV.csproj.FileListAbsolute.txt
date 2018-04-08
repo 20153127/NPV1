@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\bin\Debug\NPV.exe.config
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\bin\Debug\NPV.exe
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\bin\Debug\NPV.pdb
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.Form1.resources
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.Properties.Resources.resources
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.exe
+C:\Users\lenovo\Desktop\王辉最后次作业\18未做\NPV\NPV\obj\Debug\NPV.pdb
+D:\设计模式---王辉老师\20153127解诗语\NPV\bin\Debug\NPV.exe.config
+D:\设计模式---王辉老师\20153127解诗语\NPV\obj\Debug\NPV.exe
+D:\设计模式---王辉老师\20153127解诗语\NPV\obj\Debug\NPV.pdb
